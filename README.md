@@ -1,7 +1,6 @@
 ### Olá, bem-vindo ao meu perfil 👋
 - Linguagem preferida: Java ☕
-- Também utilizo C#, Python e PHP 🥸
-- Designer preguiçoso mas de qualidade 🥶
+- Também utilizo Python 🐍
 - Atualmente na HyperPowered ☁️
 <div style="display: inline_block">
                    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
