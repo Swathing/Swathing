@@ -1,7 +1,7 @@
 ### Olá, bem-vindo ao meu perfil 👋
 - Linguagem preferida: Java ☕
-- Também utilizo Python 🐍
-- Atualmente na HyperPowered ☁️
+- Também utilizo Python 🐍 
+- Sócio da HyperWolke ☁️
 <div style="display: inline_block">
                    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
                      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"/>
