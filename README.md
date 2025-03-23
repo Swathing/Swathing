@@ -5,8 +5,6 @@
                    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
                      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"/>
                    </a>
-                   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/></a>
                    <a href="https://spigotmc.org" target="_blank" rel="noreferrer"><img
                                 src="https://avatars.githubusercontent.com/u/4350249?s=280&v=4" alt="spigot"
                                 width="40" height="40" /></a>
@@ -25,12 +23,6 @@
                    <a href="https://www.discord.com/developers" target="_blank" rel="noreferrer"><img
                                 src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Discord_Active_Developer_Badge.svg" alt="discord"
                                 width="40" height="40" /></a>
-                   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
-                                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-                                width="36" height="36" alt="HTML5" /></a>
-                   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img
-                                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-                                width="36" height="36" alt="CSS3" /></a>
 </div>
 <br>
 
